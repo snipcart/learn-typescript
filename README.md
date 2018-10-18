@@ -1,6 +1,6 @@
 # Learn TypeScript
 
-![learn-typescript](https://snipcart.com/media/203920/1_jsyv8lxmutbrvlq2fpywag.png)
+![learn-typescript](https://snipcart.com/media/203922/learn-typescript.png)
 
 Open source list of paid &amp; free resources to learn TypeScript
 

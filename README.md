@@ -14,7 +14,7 @@ Open source list of paid &amp; free resources to learn TypeScript
 
 **Notes**
 
-• This list is a companion resource to [XXX]()
+• This list is a companion resource to [Learn TypeScript: Why Should You Use It?](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
 • Feel free to fork this repo and add valuable resources to categories. All PRs will be manually reviewed.
 

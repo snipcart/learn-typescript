@@ -45,6 +45,7 @@ Open source list of paid &amp; free resources to learn TypeScript
 - [TypeScript Official Documentation](https://www.typescriptlang.org/docs/home.html)
 - [TypeScript Official Blog](https://blogs.msdn.microsoft.com/typescript/)
 - [Posts tagged “typescript” - Dev.to](https://dev.to/t/typescript)
+- [TypeScript Progression Ladder](http://www.techladder.io/?tech=typescript)
 
 ## Noteworthy articles ✍️
 
